@@ -26,7 +26,7 @@ const Demo = () => {
                 <div className=''>
                     <div className='text-2xl'><button className='bg-blue-700'  onClick={incr}>Increment</button></div>
                     <div className='text-2xl'>Count:- {count}</div>
-                    <div className='text-2xl'><button className='bg-red-500'  onClick={decr}>Decrement</button></div>
+                    <div className='text-2xl'><button className='bg-white'  onClick={decr}>Decrement</button></div>
                 </div>
         </div>
              
